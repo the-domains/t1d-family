@@ -1,0 +1,14 @@
+layout_spectrum: 0.7717508
+color:
+  saturation: 0.8770139
+  brandStrength: 0.1824439
+  lightness: 0.9092373
+  rhythmicContrast: 0.1068743
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.4441461
+name: T1D Family
